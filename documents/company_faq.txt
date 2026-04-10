@@ -1,0 +1,6 @@
+COMPANY: BrightMark Agency
+SERVICES: Social media management, paid ads, email marketing
+PRICING: Social media starts at $500/month. Paid ads start at $1000/month.
+HOURS: Monday to Friday, 9AM to 6PM EST
+CONTACT: hello@brightmark.com
+REFUNDS: No refunds after work has begun.
